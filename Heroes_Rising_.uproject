@@ -5,11 +5,11 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "MultiUserClient",
+			"Name": "LiveLink",
 			"Enabled": true
 		},
 		{
-			"Name": "LiveLink",
+			"Name": "MultiUserClient",
 			"Enabled": true
 		}
 	]
